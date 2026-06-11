@@ -408,7 +408,7 @@ const HelpLine = () => {
           <div style={styles.heroBadge}>
             <FaHeadset /> 24/7 Customer Support
           </div>
-          <h1 style={styles.heroTitle}>How Can We Help You?</h1>
+          <h1 style={styles.heroTitle}>Hi i am Manu How Can We Help You?</h1>
           <p style={styles.heroSubtitle}>
             Our dedicated support team is here to assist you 24/7. 
             Choose your preferred way to connect with us.
