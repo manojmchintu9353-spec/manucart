@@ -246,7 +246,7 @@ const HelpLine = () => {
               <div style={styles.infoIcon}><FaEnvelope /></div>
               <div>
                 <strong>Email</strong><br />
-                support@techstore.com
+                manojmchintu9353@gmail.com
               </div>
             </div>
             <div style={styles.infoItem}>

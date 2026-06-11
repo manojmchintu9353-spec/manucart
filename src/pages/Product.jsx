@@ -592,7 +592,7 @@ const Product = () => {
           <div>
             <h4 style={styles.footerTitle}>Contact</h4>
             <div style={styles.footerLinks}>
-              <div><FaEnvelope style={{ marginRight: '10px' }} /> support@techstore.com</div>
+              <div><FaEnvelope style={{ marginRight: '10px' }} /> manojmchintu9353@gmail.com</div>
               <div><FaPhone style={{ marginRight: '10px' }} /> +1 (555) 123-4567</div>
               <div><FaMapMarkerAlt style={{ marginRight: '10px' }} /> 123 Tech St, Silicon Valley</div>
             </div>
